@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NoteSphere/static/css/main.3aa42ec1.css",
+    "main.js": "/NoteSphere/static/js/main.44e3c100.js",
+    "index.html": "/NoteSphere/index.html",
+    "main.3aa42ec1.css.map": "/NoteSphere/static/css/main.3aa42ec1.css.map",
+    "main.44e3c100.js.map": "/NoteSphere/static/js/main.44e3c100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa42ec1.css",
+    "static/js/main.44e3c100.js"
+  ]
+}
